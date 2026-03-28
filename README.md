@@ -1,7 +1,7 @@
+![giphy](https://github.com/user-attachments/assets/05562148-fdfc-4b6e-8fe4-105b2887d482)
 ## Hi there 👋
 ## I'm Dipto
 🌱 I’m currently learning and trying to get along with AI driven world<br>
-![giphy](https://github.com/user-attachments/assets/05562148-fdfc-4b6e-8fe4-105b2887d482)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diptoism) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkt.officials@gmail.com) 
 
