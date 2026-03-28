@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-# 💫 About Me:
+## I'm Dipto
 🌱 I’m currently learning and trying to get along with AI driven world<br>
 
 
